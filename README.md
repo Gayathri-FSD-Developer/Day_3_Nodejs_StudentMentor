@@ -1,10 +1,10 @@
 <div>
   <h2>Introduction⚡</h2>
-  <p>This Hall Booking API's allows us to create,booking,getbooking,customerDetails operations with the local room data </p><br>
+  <p>This Student Mentor connection API's allows us to Create, Get,AssignMentor, AssingStudent, StudentWithOutMentor, Get all studentoperations with Atlas 3rd party cloud service provider</p><br>
   <h2>Prerequisites📚</h2>
   <p>To create this api we need (nodejs, express js, npm, nodemon )</p>
   
-  <h2>Summary</h2>
+<h2>Summary</h2>
 <p>
 1. Setup Project: Initialize and install necessary dependencies(nodemon,express,cors,mongoose,dotenv).
 2. Project Structure: Organize the project into models,controller and routes.
