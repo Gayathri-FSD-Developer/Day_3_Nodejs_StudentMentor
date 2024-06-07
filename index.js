@@ -15,7 +15,7 @@ app.use(cors())
 connection()
 
 // Get home page call
-app.use('/',(req,res)=>{
+app.get('/',(req,res)=>{
     res.status(200).send(`<div style="background-color:rgb(94, 159, 135);text-align: center;border-radius: 25px;"><h1>
     Server Connected Successfully🌐
     </h1>
