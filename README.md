@@ -17,7 +17,7 @@
   <h2>Handled CURD operations with live data using Atlas 3rd party cloud service provider </h2>
   
   <h2>API Documentation📝</h2>
-  <h3>Explore the API doc👉</h3><p>https://documenter.getpostman.com/view/14958136/2sA2xiWXWw</p>
+  <h3>Explore the API doc👉</h3><p>https://documenter.getpostman.com/view/14958136/2sA3XJkjWp</p>
   
   <p>Thank You!...✨☺ </p>
   
